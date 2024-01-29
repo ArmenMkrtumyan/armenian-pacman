@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw0aGwyYzFvN2ZpbnJtbzRxcnhqNDl0bDF0ZXk5MzU5aHgyenBkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxJjBMvqEvMSA/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw0aGwyYzFvN2ZpbnJtbzRxcnhqNDl0bDF0ZXk5MzU5aHgyenBkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxJjBMvqEvMSA/giphy.gif" width="600"/>
 </div>
 
 <h1 align="center">Armenian Pacman</h1>
