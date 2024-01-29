@@ -17,11 +17,12 @@ Just a regular pacman game made by an Armenian guy
 1. Open a terminal and navigate to the directory containing the game files.
 2. Run the following commands to start the game:
 
-`make re\n`
+`make re`
+
 `./armenian-pacman map.ber`
 
 
-Replace `map.ber` with the name of your desired map file. 
+If you want, replace `map.ber` with the name of your desired map file. 
 Don't forget, you can create and use your own custom maps for endless adventures!
 The only requirement is that map has to be surrounded by walls, it must have an exit and starting point for the player
 
