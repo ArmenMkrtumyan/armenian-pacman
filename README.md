@@ -17,8 +17,8 @@ Just a regular pacman game made by an Armenian guy
 1. Open a terminal and navigate to the directory containing the game files.
 2. Run the following commands to start the game:
 
-`make re
-./armenian-pacman map.ber`
+`make re`
+`./armenian-pacman map.ber`
 
 
 Replace `map.ber` with the name of your desired map file. 
