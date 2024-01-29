@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn-60c13ad2c1ac185aa47dad63.closte.com/wp-content/uploads/2021/01/ruban-led-home-3-1000x1000.jpg" width="400"/>
+  <img src="[[https://cdn-60c13ad2c1ac185aa47dad63.closte.com/wp-content/uploads/2021/01/ruban-led-home-3-1000x1000.jpg](https://giphy.com/gifs/nostalgia-pacman-love-jxJjBMvqEvMSA)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw0aGwyYzFvN2ZpbnJtbzRxcnhqNDl0bDF0ZXk5MzU5aHgyenBkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxJjBMvqEvMSA/giphy.gif)" width="400"/>
 </div>
 
 <h1 align="center">Armenian Pacman</h1>
